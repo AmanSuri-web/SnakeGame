@@ -1,9 +1,7 @@
-package entities;
+package org.example.entities;
 
 import lombok.Builder;
-import lombok.Data;
 import lombok.Getter;
-import lombok.experimental.Accessors;
 
 @Builder
 @Getter

@@ -1,8 +1,8 @@
 package org.example;
 
-import entities.Board;
-import entities.Coordinate;
-import entities.Snake;
+import org.example.entities.Board;
+import org.example.entities.Coordinate;
+import org.example.entities.Snake;
 
 import java.util.HashMap;
 import java.util.LinkedList;
